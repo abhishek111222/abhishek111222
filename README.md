@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhishek111222
+- 👋 Hi, I’m Abhishek Singh
 - 👀 I’m interested in Machine Learning and Deep Learning models
 - 🌱 I’m currently doing Data Science (MSc) from University of Bristol
 - 📫 Mail me on gp20498@bristol.ac.uk for queries or collaborations. 
