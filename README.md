@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Abhishek Singh
 - 👀 I’m interested in Machine Learning and Deep Learning models
-- 🌱 I’m currently doing Data Science (MSc) from University of Bristol
-- 📫 Mail me on gp20498@bristol.ac.uk for queries or collaborations. 
+
 
 <!---
 abhishek111222/abhishek111222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
